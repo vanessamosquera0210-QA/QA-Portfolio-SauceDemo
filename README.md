@@ -1,43 +1,111 @@
-# QA-Portfolio-SauceDemo
-Proyecto de pruebas manuales y automatizadas sobre SauceDemo.
-🧪 QA Portfolio – SauceDemo
-📌 Descripción
+# Portafolio de Pruebas de Software – SauceDemo
 
-Proyecto de pruebas funcionales manuales y automatización básica realizado como práctica profesional.
+## Descripción del Proyecto
 
-🔍 Alcance de Pruebas
+Este proyecto presenta un **proceso completo de pruebas de software** aplicado a la aplicación web SauceDemo.
+Incluye la planificación de pruebas, diseño de casos de prueba, reporte de defectos, matriz de trazabilidad, métricas de ejecución y automatización básica utilizando Cypress.
 
-Login
+El objetivo es **simular el flujo de trabajo real de un Analista QA dentro de una empresa de desarrollo de software**.
 
-Carrito de compras
+---
 
-Checkout
+## Alcance de las Pruebas
 
-Validaciones de campos
+Aplicación probada: https://www.saucedemo.com
 
-📊 Documentación Incluida
+Funcionalidades principales evaluadas:
 
-Plan de pruebas
+* Inicio de sesión de usuario
+* Visualización del inventario de productos
+* Agregar productos al carrito
+* Proceso de compra (checkout)
+* Confirmación de pedido
 
-Casos de prueba
+---
 
-Reporte de defectos
+## Actividades de Pruebas Realizadas
 
-Matriz de trazabilidad
+### Plan de Pruebas
 
-Evidencias
+Se elaboró un plan de pruebas que incluye:
 
-🛠 Herramientas utilizadas
+* Alcance del proyecto
+* Estrategia de pruebas
+* Ambiente de pruebas
+* Criterios de entrada y salida
 
-JIRA (simulado)
+---
 
-Excel
+### Diseño de Casos de Prueba
 
-Cypress (automatización básica)
+Se diseñaron casos de prueba manuales que cubren:
 
-GitHub
+* Escenarios funcionales
+* Pruebas positivas y negativas
+* Validaciones del sistema
 
-👩‍💻 Autora
+---
+
+### Reporte de Defectos
+
+Los defectos identificados fueron documentados utilizando un formato similar al utilizado en **JIRA**, incluyendo:
+
+* Descripción del defecto
+* Pasos para reproducir
+* Resultado esperado
+* Resultado actual
+* Severidad y prioridad
+
+---
+
+### Matriz de Trazabilidad (RTM)
+
+Se elaboró una matriz de trazabilidad para relacionar:
+
+* Requerimientos
+* Casos de prueba
+* Resultados de ejecución
+
+Esto permite asegurar la **cobertura completa de las pruebas**.
+
+---
+
+### Métricas de Ejecución de Pruebas
+
+Se generaron métricas para evaluar el estado de las pruebas:
+
+* Número total de casos de prueba
+* Casos aprobados (Passed)
+* Casos fallidos (Failed)
+* Cobertura de pruebas
+* Porcentaje de éxito de ejecución
+
+---
+
+### Automatización de Pruebas
+
+Se desarrolló una automatización básica utilizando **Cypress**, incluyendo:
+
+* Prueba de inicio de sesión
+* Flujo completo de compra
+* Implementación del patrón **Page Object Model (POM)**
+
+---
+
+## Herramientas Utilizadas
+
+* Cypress
+* JavaScript
+* Jira (simulación de reporte de defectos)
+* Excel
+* GitHub
+
+---
+
+## Autora
 
 Vanessa Mosquera
-QA Junior | Especialista en Ingeniería de Software
+Analista QA | Pruebas de Software | Automatización básica
+
+
+
